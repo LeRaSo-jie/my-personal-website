@@ -1,0 +1,35 @@
+{
+  "title": "个人简历",
+  "subtitle": "全栈开发工程师 | 软件测试自动化专家",
+  "email": "your.email@example.com",
+  "github": "https://github.com/yourusername",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Vue.js",
+    "Flask",
+    "SQL",
+    "Docker",
+    "Git",
+    "Linux"
+  ],
+  "workExperience": [
+    {
+      "company": "ABC 科技",
+      "description": "负责前端架构设计与后端 API 开发，主导自动化测试框架搭建。",
+      "period": "2022 - 至今",
+      "title": "高级软件工程师"
+    },
+    {
+      "company": "XYZ 互联网",
+      "description": "参与多个 Web 项目的开发与维护，积累了丰富的全栈开发经验。",
+      "period": "2020 - 2022",
+      "title": "软件开发工程师"
+    }
+  ],
+  "education": {
+    "degree": "计算机科学与技术 学士",
+    "period": "2018 - 2022",
+    "school": "某知名大学"
+  }
+}
